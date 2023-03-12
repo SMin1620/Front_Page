@@ -33,7 +33,18 @@ a {
     float:right;
 }
 
+.img-box > img {
+    width: 100%;
+    display: block;
+}
+
 /* 커스텀 */
 .con {
     max-width: 1000px;
+}
+
+
+/* 탑 배너 박스 1 */
+.top-bn-box-1 {
+    margin-top: 30px;
 }
